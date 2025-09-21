@@ -1,0 +1,7 @@
+[
+  { "name": "SVM", "accuracy": 4, "speed": 3, "interpretability": 4 },
+  { "name": "KNN", "accuracy": 3, "speed": 4, "interpretability": 5 },
+  { "name": "Random Forest", "accuracy": 5, "speed": 3, "interpretability": 3 },
+  { "name": "Gradient Boosting", "accuracy": 5, "speed": 2, "interpretability": 2 },
+  { "name": "CNN", "accuracy": 5, "speed": 2, "interpretability": 2 }
+]

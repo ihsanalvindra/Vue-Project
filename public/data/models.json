@@ -1,0 +1,13 @@
+[
+  { "name": "Support Vector Machine (SVM)", "category": "Supervised", "description": "Memisahkan data dengan hyperplane terbaik untuk klasifikasi.", "useCase": "Image classification, spam detection", "icon": "🤖" },
+  { "name": "K-Nearest Neighbors (KNN)", "category": "Supervised", "description": "Menentukan label berdasarkan tetangga terdekat.", "useCase": "Rekomendasi produk, pattern recognition", "icon": "📍" },
+  { "name": "Decision Tree", "category": "Supervised", "description": "Membagi data ke node-node berdasarkan fitur terbaik.", "useCase": "Credit scoring, churn prediction", "icon": "🌳" },
+  { "name": "Random Forest", "category": "Supervised", "description": "Kombinasi banyak decision tree untuk hasil lebih akurat.", "useCase": "Fraud detection, customer segmentation", "icon": "🌲" },
+  { "name": "Gradient Boosting", "category": "Supervised", "description": "Model ensemble yang menggabungkan banyak tree secara berurutan.", "useCase": "Credit scoring, churn prediction", "icon": "⚡" },
+  { "name": "K-Means Clustering", "category": "Unsupervised", "description": "Mengelompokkan data ke cluster berdasarkan kedekatan.", "useCase": "Segmentasi pelanggan, market analysis", "icon": "🔵" },
+  { "name": "PCA (Principal Component Analysis)", "category": "Unsupervised", "description": "Reduksi dimensi data untuk visualisasi & kompresi.", "useCase": "Image compression, visualization", "icon": "📉" },
+  { "name": "Q-Learning", "category": "Reinforcement", "description": "Algoritma RL untuk memilih tindakan optimal dalam environment.", "useCase": "Game AI, robot navigation", "icon": "🎮" },
+  { "name": "Deep Neural Network (DNN)", "category": "Deep Learning", "description": "Jaringan saraf dengan banyak layer untuk learning kompleks.", "useCase": "Image recognition, NLP", "icon": "🧠" },
+  { "name": "Convolutional Neural Network (CNN)", "category": "Deep Learning", "description": "CNN untuk data berbasis grid (misal gambar).", "useCase": "Face recognition, image classification", "icon": "🖼️" },
+  { "name": "Recurrent Neural Network (RNN)", "category": "Deep Learning", "description": "Model sequence untuk data berurutan.", "useCase": "Text generation, speech recognition", "icon": "🔁" }
+]
