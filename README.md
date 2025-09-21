@@ -16,5 +16,5 @@ Landing page ini interaktif, menampilkan macam-macam model ML, tips & tricks, se
 
 ---
 
-## 📁 Struktur Project
+
 
