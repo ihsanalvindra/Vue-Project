@@ -5,7 +5,7 @@
     <ModelComparison/>
     <TipsSection/>
     <Footer/>
-    <div class="text-center text-3xl mt-20">Landing Page ML Works!</div>
+    <div class="text-center text-3xl mt-20">Landing Page ML Works</div>
   </div>
 </template>
 
